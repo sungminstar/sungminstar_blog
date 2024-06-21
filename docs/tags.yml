@@ -1,0 +1,12 @@
+javascript:
+  label: javascript
+  permalink: /javascript
+  description: JavaScript tag description
+codingtest:
+  label: codingtest
+  permalink: /codingtest
+  description: CodingTest tag description
+test:
+  label: test
+  permalink: /test
+  description: Test tag description
