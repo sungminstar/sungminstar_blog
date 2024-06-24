@@ -66,6 +66,7 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
+        style: "primary",
         title: "SUNGMIN STAR",
         logo: {
           alt: "My Site Logo",
@@ -88,6 +89,7 @@ const config = {
       },
 
       footer: {
+        style: "light",
         logo: {
           src: "img/favicon.ico",
           href: "/",
@@ -95,7 +97,6 @@ const config = {
           height: 40,
           alt: "sungminstar",
         },
-        style: "dark",
         links: [],
         copyright: `Copyright © ${new Date().getFullYear()} SUNGMINSTAR`,
       },
